@@ -1,4 +1,4 @@
-cojo impuluso
+
 salto
 caigo
 
