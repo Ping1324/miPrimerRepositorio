@@ -11,3 +11,6 @@ doble cambio locooo
 
 esta linea es la 12
 un cambio desde github
+
+ahora un cambio desde vsc lol va a saltar
+si
